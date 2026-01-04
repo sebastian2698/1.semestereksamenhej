@@ -269,44 +269,9 @@
     grid-template-columns: 1fr 4fr;
     color: white;
   }
-  .HTML {
-    display: flex;
-    align-items: center;
-    width: 30%;
-  }
-  .CSS {
-    display: flex;
-    align-items: center;
-    width: 30%;
-  }
-  .CSS {
-    display: flex;
-    align-items: center;
-    width: 30%;
-  }
-  .JavaScript {
-    display: flex;
-    align-items: center;
-    width: 30%;
-  }
-  .Figma {
-    display: flex;
-    align-items: center;
-    width: 30%;
-  }
-  .Adobeillustrator {
-    display: flex;
-    align-items: center;
-    width: 30%;
-  }
-  .Premierpro {
-    display: flex;
-    align-items: center;
-    width: 30%;
-  }
-  .github {
-    display: flex;
-    align-items: center;
-    width: 30%;
+  .kompetencer {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    color: white;
   }
 }
